@@ -1,0 +1,9 @@
+    1  sudo passwd root
+    2  reboot
+    3  sudo apt install neofetch
+    4  neofetch
+    5  sudo raspi-config
+    6  sudo apt udate && upgrade
+    7  sudo apt update && upgrade
+    8  sudo apt upgrade
+    9  history > historicoprat2_fernando.txt
